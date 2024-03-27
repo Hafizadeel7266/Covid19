@@ -1,2 +1,2 @@
 # Covid19
-Demo-project
+Open Source project
